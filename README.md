@@ -57,10 +57,10 @@
 
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=martialo12&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=martialo12&count_private=true&theme=merko" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martialo12&show_icons=true&theme=dark)"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martialo12&show_icons=true&theme=merko"/>
     </a>
 </div
   
