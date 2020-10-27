@@ -19,6 +19,7 @@
 <a href="https://www.instagram.com/martialo_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/martialoDev/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/martialobug" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231899F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.youtube.com/channel/UCOHAUH0L6IbalGd-iGHHdmQ?view_as=subscriber" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E44000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 
 <br />
 
