@@ -4,8 +4,8 @@
 
 ## I'm a Software Engineer 
 
-- 👨‍💻 I’m currently working on some Java projects(just to brush up on my java Skills)
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on a chatbot project
+- 📚 I’m currently learning everything about Blockchain and AI.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play soccer⚽ and basket 🏀.
 
