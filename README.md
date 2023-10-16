@@ -4,8 +4,8 @@
 
 ## I'm a Software Engineer 
 
-- 👨‍💻 I’m currently working on a chatbot project
-- 📚 I’m currently learning everything about Blockchain and AI.
+- 👨‍💻 I’m currently working on a meraki wrapper api
+- 📚 I’m currently learning AWS cloud
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play soccer⚽ and basket 🏀.
 
